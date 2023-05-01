@@ -1,0 +1,1 @@
+AJSHWORK NICKNAME VALIDATION [![Build status](https://ci.appveyor.com/api/projects/status/fn89xkl3a57kredv?svg=true)](https://ci.appveyor.com/project/Suhogruzz/ajshworkvalidateusr)
